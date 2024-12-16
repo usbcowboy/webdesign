@@ -228,3 +228,4 @@ are blocking requests from your app. Here's how to resolve it:
 - [Google AI Gemini API documentation](https://ai.google.dev/gemini-api/docs/quickstart?lang=web)
   (for experimentation and prototyping)
 - [Vertex AI in Firebase documentation](https://firebase.google.com/docs/vertex-ai) (for production apps)
+# webdesign
